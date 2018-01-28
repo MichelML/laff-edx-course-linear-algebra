@@ -1,0 +1,16 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eucledian_length.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "node node_modules/tsjs --all"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ramda": "0.25.0",
+    "tsjs": "0.3.3"
+  }
+}
